@@ -1,0 +1,7 @@
+
+==================================================
+Email: wacib10686@deusa7.com
+Password: VTKBq&Ftl%m7
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhdXRoMHx1c2VyXzAxSlRYU1hCU1g3UEhSMjNCNFhDSzIwMDg0IiwidGltZSI6IjE3NDY5MDQ1MTgiLCJyYW5kb21uZXNzIjoiNTQxNzZhZDctMjBhZi00YzFlIiwiZXhwIjoxNzUyMDg4NTE4LCJpc3MiOiJodHRwczovL2F1dGhlbnRpY2F0aW9uLmN1cnNvci5zaCIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhdWQiOiJodHRwczovL2N1cnNvci5jb20ifQ.fpZ5q3JTtLu3tpBCnDjgPIXfxj15Y7hm_fihStGCpXA
+Usage Limit: 150
+==================================================
